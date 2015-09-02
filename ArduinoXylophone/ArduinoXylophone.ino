@@ -1,3 +1,6 @@
+//Arduino Xylophone Code
+//Jason Nenniger
+
 #include "pitches.h"
 boolean hit = false;
 int thisNote = 0, value = 0;
